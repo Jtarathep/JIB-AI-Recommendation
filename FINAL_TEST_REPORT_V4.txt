@@ -1,9 +1,0 @@
-V4 consolidated fixes based on latest user test results.
-
-Validated:
-- Thai/English/mixed usage parsing: Gaming, Programming, Editing, General Use, AI/ML.
-- Mixed workload messages retain all detected usages.
-- Multi-workload RAM allocation now allows 32GB when programming/editing/AI is present with gaming and budget >= 35,000.
-- Platform-aware RAM native-speed display/compatibility heuristic for DDR4/DDR5 prevents generic CPU RAM max from labeling some OC speeds as Native.
-- Existing RAM edit flow remains unchanged.
-- PSU display remains Estimated Load / Recommended PSU / Headroom.
