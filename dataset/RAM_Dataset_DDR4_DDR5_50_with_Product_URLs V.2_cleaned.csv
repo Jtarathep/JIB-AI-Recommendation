@@ -1,0 +1,41 @@
+﻿ID,Brand,Model,DDR,Capacity_GB,Bus_MHz,CL,Price_THB,RGB,Module_Type,XMP,EXPO,Source,Last_Updated,Product_URL,URL_Status
+1,G.SKILL,Ripjaws V F4-3200C16D-16GVKB,DDR4,16,3200,16,"4,690",No,DIMM,XMP,,JIB/Market,18/9/2026,https://www.jib.co.th/web/product/readProduct/20010,Verified exact JIB product page
+2,Corsair,Vengeance LPX CMK16GX4M2E3200C16,DDR4,16,3200,16,"4,690",No,DIMM,XMP,,JIB/Market,18/9/2026,https://www.jib.co.th/web/product/readProduct/46060,Verified exact JIB product page
+3,Kingston,FURY Beast KF432C16BB/16,DDR4,16,3200,16,"4,990",No,DIMM,XMP,,JIB/Market,18/9/2026,https://www.jib.co.th/web/product/readProduct/51953,Not verified
+4,G.SKILL,Ripjaws V F4-3200C16S-16GVK,DDR4,16,3200,16,"4,390",No,DIMM,XMP,,JIB/Market,18/9/2026,https://www.jib.co.th/web/product/readProduct/37296,Not verified
+5,Corsair,Vengeance LPX CMK16GX4M1E3200C16,DDR4,16,3200,16,"4,590",No,DIMM,XMP,,JIB/Market,18/9/2026,https://www.jib.co.th/web/product/readProduct/57190,Verified exact JIB product page
+6,Lexar,THOR LD4BU016G-R3200GSXG,DDR4,16,3200,16,"4,590",No,DIMM,XMP,,JIB/Market,18/9/2026,https://www.jib.co.th/web/product/readProduct/68015,Not verified
+7,Kingston,FURY Beast KF432C16BBK2/32,DDR4,32,3200,16,"9,890",No,DIMM,XMP,,JIB/Market,18/9/2026,https://www.jib.co.th/web/product/readProduct/53593,Not verified
+8,Corsair,Vengeance LPX CMK32GX4M2E3200C16,DDR4,32,3200,16,"9,290",No,DIMM,XMP,,JIB/Market,18/9/2026,https://www.jib.co.th/web/product/readProduct/45039,Not verified
+9,Corsair,Vengeance Pro SL CMH32GX4M2E3200C16W,DDR4,32,3200,16,"10,500",Yes,DIMM,XMP,,JIB/Market,18/9/2026,https://www.jib.co.th/web/product/readProduct/45702,Verified exact JIB product page
+10,G.SKILL,Trident Z Neo F4-3200C16D-32GTZN,DDR4,32,3200,16,"9,590",Yes,DIMM,XMP,,JIB/Market,18/9/2026,https://www.jib.co.th/web/product/readProduct/39504,Verified exact JIB product page
+11,G.SKILL,Trident Z RGB F4-3600C18D-32GTZR,DDR4,32,3600,18,"9,390",Yes,DIMM,XMP,,JIB/Market,18/9/2026,https://www.jib.co.th/web/product/readProduct/38734,Verified exact JIB product page
+12,Kingston,FURY Beast KF432C16BB/8,DDR4,8,3200,16,"3,890",No,DIMM,XMP,,JIB/Market,18/9/2026,https://www.jib.co.th/web/product/readProduct/82168,Not verified
+13,Kingston,FURY Beast KF432C16BB1/16,DDR4,16,3200,16,"4,990",No,DIMM,XMP,,JIB/Market,18/9/2026,https://www.jib.co.th/web/product/readProduct/82273,Not verified
+14,HIKSEMI,ARMOR HSC416U32D2,DDR4,16,3200,18,"4,090",No,DIMM,XMP,,JIB/Market,18/9/2026,https://www.jib.co.th/web/product/readProduct/79331,Not verified
+15,HIKSEMI,FUTURE HSC408U32C2,DDR4,8,3200,16,"2,190",No,DIMM,XMP,EXPO,JIB/Market,18/9/2026,https://www.jib.co.th/web/product/readProduct/85023,Not verified
+16,Kingston,FURY Beast KF552C40BB-16,DDR5,16,5200,40,"9,490",No,DIMM,,EXPO,JIB/Market,18/9/2026,https://www.jib.co.th/web/product/readProduct/51128,Verified exact JIB product page
+17,Kingston,FURY Beast KF556C40BBK2-16,DDR5,16,5600,40,"9,990",No,DIMM,,EXPO,JIB/Market,18/9/2026,https://www.jib.co.th/web/product/readProduct/52174,Not verified
+18,Corsair,Vengeance CMH16GX5M2B5200C40,DDR5,16,5200,40,"8,290",Yes,DIMM,XMP,EXPO,JIB/Market,18/9/2026,https://www.jib.co.th/web/product/readProduct/70654,Verified exact JIB product page
+19,Corsair,Vengeance CMK32GX5M2B5200C40,DDR5,32,5200,40,"14,900",No,DIMM,XMP,EXPO,JIB/Market,18/9/2026,https://www.jib.co.th/web/product/readProduct/51347,Not verified
+20,Kingston,FURY Beast KF552C40BBK2-32,DDR5,32,5200,40,"17,900",No,DIMM,,EXPO,JIB/Market,18/9/2026,https://www.jib.co.th/web/product/readProduct/50216,Not verified
+21,Kingston,FURY Beast RGB KF552C40BBAK2-32,DDR5,32,5200,40,"17,400",Yes,DIMM,,EXPO,JIB/Market,18/9/2026,https://www.jib.co.th/web/product/readProduct/53758,Verified exact JIB product page
+22,Kingston,FURY Beast RGB KF552C40BWAK2-32,DDR5,32,5200,40,"15,900",Yes,DIMM,,EXPO,JIB/Market,18/9/2026,https://www.jib.co.th/web/product/readProduct/59176,Not verified
+23,Corsair,Vengeance CMK32GX5M2A4800C40,DDR5,32,4800,40,"14,400",No,DIMM,XMP,EXPO,JIB/Market,18/9/2026,https://www.jib.co.th/web/product/readProduct/51359,Verified exact JIB product page
+24,Corsair,Vengeance CMK32GX5M2B5600C40,DDR5,32,5600,40,"16,500",No,DIMM,XMP,EXPO,JIB/Market,18/9/2026,https://www.jib.co.th/web/product/readProduct/63455,Verified exact JIB product page
+25,Corsair,Vengeance RGB CMH32GX5M2B5600C40K,DDR5,32,5600,40,"15,800",Yes,DIMM,XMP,EXPO,JIB/Market,18/9/2026,https://www.jib.co.th/web/product/readProduct/63723,Not verified
+26,Kingston,FURY Beast RGB KF556C40BBAK2-32,DDR5,32,5600,40,"17,900",Yes,DIMM,,EXPO,JIB/Market,18/9/2026,https://www.jib.co.th/web/product/readProduct/56469,Verified exact JIB product page
+27,Kingston,FURY Beast KF556C40BB-16,DDR5,16,5600,40,"9,990",No,DIMM,,EXPO,JIB/Market,18/9/2026,https://www.jib.co.th/web/product/readProduct/66855,Verified exact JIB product page
+28,Kingston,FURY Beast KF560C36BBE2K2-32,DDR5,32,6000,36,"16,900",No,DIMM,,EXPO,JIB/Market,18/9/2026,https://www.jib.co.th/web/product/readProduct/74973,Not verified
+29,Kingston,FURY Beast RGB 6000,DDR5,32,6000,36,"16,900",Yes,DIMM,,EXPO,JIB/Market,18/9/2026,https://www.jib.co.th/web/product/readProduct/74967,Not verified
+30,Corsair,Vengeance CMK32GX5M2E6000C36,DDR5,32,6000,36,"16,900",No,DIMM,XMP,EXPO,JIB/Market,18/9/2026,https://www.jib.co.th/web/product/readProduct/85677,Not verified
+31,Corsair,Vengeance CMK16GX5M1E6000Z36,DDR5,16,6000,36,"8,190",No,DIMM,XMP,EXPO,JIB/Market,18/9/2026,https://www.jib.co.th/web/product/readProduct/85675,Exact JIB listing verified; direct URL not extracted
+32,G.SKILL,Trident Z5 RGB F5-6000J3636F16GX2-TZ5RK,DDR5,32,6000,36,"20,490",Yes,DIMM,XMP,EXPO,JIB/Market,18/9/2026,https://www.jib.co.th/web/product/readProduct/51233,Verified exact JIB product page
+33,KLEVV,CRAS V RGB,DDR5,32,6000,28,"19,900",Yes,DIMM,XMP,EXPO,JIB/Market,18/9/2026,https://www.jib.co.th/web/product/readProduct/76681,Not verified
+34,KLEVV,FIT V,DDR5,32,5600,30,"17,290",No,DIMM,XMP,EXPO,JIB/Market,18/9/2026,https://www.jib.co.th/web/product/readProduct/77439,Not verified
+35,KLEVV,URBANE V RGB KD5AGUA80-64A320M,DDR5,32,6400,32,"19,890",Yes,DIMM,XMP,EXPO,JIB/Market,18/9/2026,https://www.jib.co.th/web/product/readProduct/73887,Verified exact JIB product page
+36,KLEVV,CRAS V RGB,DDR5,64,6000,30,"37,500",Yes,DIMM,XMP,EXPO,JIB/Market,18/9/2026,https://www.jib.co.th/web/product/readProduct/64969,Not verified
+37,G.SKILL,Ripjaws S5 F5-5600J4645A32GX2-RS5K,DDR5,64,5600,46,"37,900",No,DIMM,XMP,EXPO,JIB/Market,18/9/2026,https://www.jib.co.th/web/product/readProduct/74228,Not verified
+38,Corsair,Vengeance RGB CMH64GX5M2B5600Z40K,DDR5,64,5600,40,"35,900",Yes,DIMM,XMP,EXPO,JIB/Market,18/9/2026,https://www.jib.co.th/web/product/readProduct/55980,Not verified
+39,Kingston,FURY Beast RGB KF556C40BBAK2-64,DDR5,64,5600,40,"37,900",Yes,DIMM,,EXPO,JIB/Market,18/9/2026,https://www.jib.co.th/web/product/readProduct/70639,Verified exact JIB product page
+40,KLEVV,CRAS V RGB,DDR5,48,6000,30,"25,900",Yes,DIMM,XMP,EXPO,JIB/Market,18/9/2026,https://www.jib.co.th/web/product/readProduct/66890,Not verified
