@@ -1,0 +1,40 @@
+JIB AI Recommendation Engine V5
+Post-test review and changes
+
+Based on the completed V4 test set.
+
+Passed tests
+1. 40,000 Gaming + Programming + Editing (English mixed usage)
+2. 40,000 เล่นเกม เขียนโปรแกรม ตัดต่อ (Thai mixed usage)
+3. 40,000 Editing
+4. 50,000 AI
+5. 30,000 ใช้งานทั่วไป
+6. 40,000 Programming
+7. 40,000 Programming -> เพิ่ม RAM -> 32GB
+
+Confirmed working
+- Thai + English usage normalization
+- Multiple usages in one request
+- Fresh budget request resets previous usage context
+- General-use build uses integrated graphics by default
+- General-use storage defaults to 512GB SATA SSD
+- Programming/editing/AI workloads can reach 32GB RAM when appropriate
+- RAM compatibility checks include DDR type, board max speed, CPU native speed, and XMP/EXPO
+- PSU display separates estimated load, recommended PSU, and headroom
+- Add-RAM conversational flow preserves current budget and usage
+
+V5 change
+- AI/ML GPU selection now has a dedicated prototype rule:
+  * When no exact GPU is requested, prefer NVIDIA discrete GPUs when available.
+  * Prefer higher VRAM within the feasible budget.
+  * The UI/reason text makes this preference explicit as a prototype rule.
+- This prevents a high raw-performance AMD GPU from automatically outranking a suitable NVIDIA option for an AI/ML request.
+- The XGBRegressor model was retrained after the feature change.
+
+V5 verification examples
+50,000 AI now produces NVIDIA GPU candidates including RTX 5060 Ti 16GB, RTX 4070 Super 12GB, and RTX 4060 Ti 8GB in the tested candidate set.
+
+Not changed intentionally
+- No new commands such as 'เพิ่ม SSD' or 'เปลี่ยน CPU' were added; only the tested 'เพิ่ม RAM' edit flow remains.
+- General/Programming builds are not forced to spend the full budget when a lower-cost build already meets the stated requirements.
+- Scores remain prototype/rule-based and are not real-world accuracy measurements.

@@ -1,0 +1,28 @@
+JIB AI Recommendation Engine - Latest Fix
+
+1. Multi-Build Confirm/Apply
+- Candidate changes are applied only to Builds that actually changed.
+- Builds whose selected component is already the current item are reported as unchanged.
+- Failed Builds are reported separately instead of being reported as successful.
+
+2. Candidate UI
+- Current component is no longer offered as a misleading change candidate.
+- Candidate selection remains per Build.
+- Preview button is shown as a preview step before final confirmation.
+- Preview shows old/new component, price difference, and new total.
+
+3. Recommendation diversity
+- Same CPU + same GPU model is no longer treated as a meaningful alternative.
+- Different CPU models with similar prototype performance can remain as alternatives when their price tier is materially different.
+- Fallback selection prioritizes different CPU/GPU cores before value-only variations.
+
+4. RAM value
+- Non-focused RAM selection applies stronger price/value weighting.
+- The system continues to target the required capacity for programming/editing/AI workloads when reasonably affordable.
+
+5. Validation
+- Python syntax checks passed for app.py and build_engine.py.
+- Engine test: 40,000 Programming returns 3 builds with distinct CPU tiers.
+- Engine test: 40,000 Gaming + Programming + Editing returns 3 builds with distinct GPU models.
+
+Note: Streamlit browser click-through was not executed automatically in this environment. Please test the UI flow after extracting the ZIP.

@@ -1,0 +1,10 @@
+JIB AI Recommendation - V5 Flow
+
+Budget question flow:
+1. User asks minimum/highest/most expensive budget.
+2. AI calculates and answers from the current Dataset.
+3. The discovered budget is kept as the current budget only; usage is not guessed.
+4. User can say: จัด / ให้จัด / ขอจัด / จัดคอม / จัดเลย / เริ่มเลย / สร้างเลย / ลุย / OK.
+5. AI then asks for usage if none is selected. Usage can be typed or selected from buttons.
+6. Selecting a usage immediately generates Build 1 / Build 2 / Build 3.
+7. If usage was already known, the start command builds immediately.
